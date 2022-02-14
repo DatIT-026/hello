@@ -9,8 +9,8 @@ const CONFIG = {
     question:'Nói cho tới lý do vì sao cậu yêu tớ đii ❤',
     btnReply: 'Gửi cho tớ ❤',
     reply: 'Tại vì cậu rất đẹp trai! UwU',
-    mess: 'Tớ biết mà 🥰. Love you 300.000 😘😘',
-    messDesc: 'còn giờ thì chờ gì nữa mà không inbox cho tớ đi nào.',
+    mess: 'Tớ biết mà 🥰. Cậu biết nay là ngày gì không? Là ngày Valentine ấy! Love you 300.000 😘😘',
+    messDesc: 'Còn giờ thì chờ gì nữa mà không inbox cho tớ đi nào.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/datit.dev'
 }
